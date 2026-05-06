@@ -11,7 +11,7 @@ The dashboard enables interactive exploration of data through dynamic visuals, K
 
 ## Dashboard Preview
 
-![Overview](images.png)
+![Overview](image.png)
 ---
 
 ## Key Insights
